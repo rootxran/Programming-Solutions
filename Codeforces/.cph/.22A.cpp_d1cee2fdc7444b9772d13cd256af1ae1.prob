@@ -1,0 +1,1 @@
+{"name":"Local: 22A","url":"/home/ran/codeforces/22A.cpp","tests":[{"id":1676103788652,"input":"5\n1 2 3 1 1","output":"2"},{"id":1676104145359,"input":"4\n1 2 2 -4","output":"1"},{"id":1676105373226,"input":"1\n1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ran/codeforces/22A.cpp","group":"local","local":true}
